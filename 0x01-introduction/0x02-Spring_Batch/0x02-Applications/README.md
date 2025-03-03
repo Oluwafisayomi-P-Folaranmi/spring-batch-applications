@@ -1,4 +1,4 @@
-# Spring Batch Applications
+# **Spring Batch Applications**
 
 Here are examples for each category of enterprise applications that require batch processing:  
 
@@ -34,9 +34,4 @@ These applications ensure data accuracy and consistency while processing and val
 - **Fraud Detection in Banking**: Banks process and validate transactions in batches to detect anomalies, such as unusual withdrawals or login patterns.  
 - **Healthcare Claims Processing**: Insurance firms validate hospital claims against policy details and eligibility rules before approving payments.  
 - **Credit Card Statement Generation**: Banks process and validate millions of transactions, ensuring correct calculation of dues, fees, and rewards before sending statements to customers.  
-- **Loan Application Validation**: Banks validate submitted loan applications against various criteria (e.g., credit score, income level, and debt-to-income ratio).  
-
-Would you like a hands-on example for one of these use cases in Spring Batch?
-
-
-
+- **Loan Application Validation**: Banks validate submitted loan applications against various criteria (e.g., credit score, income level, and debt-to-income ratio).
